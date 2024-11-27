@@ -1,0 +1,8 @@
+# Tools
+tools/ImageCropper/**/*.png
+tools/ImageCropper/venv
+tools/ImageCropper/__pycache__
+
+# unused
+sample
+binding/Python
